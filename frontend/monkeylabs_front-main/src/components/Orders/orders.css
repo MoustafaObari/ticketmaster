@@ -1,0 +1,35 @@
+.orders-container {
+    padding: 20px;
+  }
+  
+  .orders-container h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    list-style-type: none; /* Removes bullet points */
+    padding: 0;
+  }
+  
+  .order-item {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .order-item div {
+    margin-bottom: 5px;
+    font-size: 14px;
+  }
+  
+  .order-item div:first-child {
+    font-weight: bold;
+    font-size: 16px;
+  }
+  
+  /* Add responsive design, colors, or other styles as needed */
+  
