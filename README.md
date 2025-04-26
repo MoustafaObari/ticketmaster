@@ -69,15 +69,16 @@ Watch a live walkthrough here:
 
 ---
 
-# 📷 Screenshots
+## 📸 Screenshots
 
 | Home Page | Event Listings |
 |:---------:|:--------------:|
-| ![Home](./screenshots/Screenshot 2025-04-26 080136.png) | ![Events](./screenshots/Screenshot 2025-04-26 080209.png) |
+| ![Home](./screenshots/Screenshot%202025-04-26%20080136.png) | ![Events](./screenshots/Screenshot%202025-04-26%20080209.png) |
 
 | Booking Page | Payment Confirmation |
 |:------------:|:--------------------:|
-| ![Booking](./screenshots/Screenshot 2025-04-26 080229.png) | ![Payment](./screenshots/Screenshot 2025-04-26 080250.png) |
+| ![Booking](./screenshots/Screenshot%202025-04-26%20080229.png) | ![Payment](./screenshots/Screenshot%202025-04-26%20080250.png) |
+
 
 ---
 
