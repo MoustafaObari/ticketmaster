@@ -87,6 +87,27 @@ Watch a live walkthrough here:
 
 ---
 
+# 🧭 Key Pages
+
+| URL Path         | Description                  |
+|------------------|-------------------------------|
+| `/`              | Home Page (Event categories)  |
+| `/events/:id`    | View detailed event information |
+| `/login`         | User Login page               |
+| `/register`      | User Registration page        |
+| `/profile`       | Manage personal profile       |
+| `/orders`        | View past ticket orders        |
+
+# 📌 Planned Enhancements
+
+- 🔐 Implement JWT-based secure authentication
+- 💳 Integrate Stripe API for payment processing
+- 📱 Build a fully responsive mobile version
+- 🛒 Improve shopping cart for multi-ticket booking
+- 🌍 CI/CD automatic deployment via Render or Railway
+
+
+
 # 👨‍💻 Developer
 
 **Moustafa Obari**  
