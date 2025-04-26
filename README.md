@@ -1,3 +1,8 @@
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-yellow)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 # 🎫 TicketMaster - Event Ticketing System
 
 A full-stack application for browsing events, booking tickets, and managing orders and payments, built using **React.js**, **Express.js**, and **MongoDB**.
