@@ -30,8 +30,8 @@ A full-stack application for browsing events, booking tickets, and managing orde
 
 ## 1. Clone the Repo
 ```bash
-git clone https://github.com/your-username/monkeylabs-ticketmaster.git
-cd monkeylabs-ticketmaster
+git clone https://github.com/your-username/ticketmaster.git
+cd ticketmaster
 ```
 
 ## 2. Setup the Backend
